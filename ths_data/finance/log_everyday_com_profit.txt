@@ -1,0 +1,105 @@
+Thu, 28 Sep 2017 18:13:15 base.py[line:431] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Thu, 28 Sep 2017 18:13:15 base.py[line:431] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Thu, 28 Sep 2017 18:13:15 base.py[line:865] INFO Added job "Spider.work" to job store "default"
+Thu, 28 Sep 2017 18:13:15 base.py[line:865] INFO Added job "Spider.work" to job store "default"
+Thu, 28 Sep 2017 18:13:15 base.py[line:158] INFO Scheduler started
+Thu, 28 Sep 2017 18:13:15 base.py[line:123] INFO Running job "Spider.work (trigger: date[2017-09-28 18:13:15 CST], next run at: 2017-09-28 18:13:15 CST)" (scheduled at 2017-09-28 18:13:15.203000+08:00)
+Thu, 28 Sep 2017 18:13:15 base.py[line:619] INFO Removed job 1aeb3d548cde45dfa66626977644b3ca
+Thu, 28 Sep 2017 18:13:24 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Thu, 28 Sep 2017 18:15:20 base.py[line:131] ERROR Job "Spider.work (trigger: date[2017-09-28 18:13:15 CST], next run at: 2017-09-28 18:13:15 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Thu, 28 Sep 2017 18:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-28 18:23:00 CST)" (scheduled at 2017-09-28 18:23:00+08:00)
+Thu, 28 Sep 2017 18:23:07 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Thu, 28 Sep 2017 18:23:41 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 09:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Fri, 29 Sep 2017 09:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 09:23:00 CST)" (scheduled at 2017-09-29 09:23:00+08:00)
+Fri, 29 Sep 2017 09:23:00 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Fri, 29 Sep 2017 09:23:49 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 12:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Fri, 29 Sep 2017 12:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 12:23:00 CST)" (scheduled at 2017-09-29 12:23:00+08:00)
+Fri, 29 Sep 2017 12:23:00 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Fri, 29 Sep 2017 12:23:13 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 15:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Fri, 29 Sep 2017 15:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 15:23:00 CST)" (scheduled at 2017-09-29 15:23:00+08:00)
+Fri, 29 Sep 2017 15:23:00 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Fri, 29 Sep 2017 15:23:17 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 18:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Fri, 29 Sep 2017 18:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-29 18:23:00 CST)" (scheduled at 2017-09-29 18:23:00+08:00)
+Fri, 29 Sep 2017 18:23:00 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Fri, 29 Sep 2017 18:23:49 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-30 09:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Sat, 30 Sep 2017 09:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-30 09:23:00 CST)" (scheduled at 2017-09-30 09:23:00+08:00)
+Sat, 30 Sep 2017 09:23:01 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Sat, 30 Sep 2017 09:23:52 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-30 12:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Sat, 30 Sep 2017 12:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-30 12:23:00 CST)" (scheduled at 2017-09-30 12:23:00+08:00)
+Sat, 30 Sep 2017 12:23:00 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Sat, 30 Sep 2017 12:23:15 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-30 15:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument
+Sat, 30 Sep 2017 15:23:00 base.py[line:123] INFO Running job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-30 15:23:00 CST)" (scheduled at 2017-09-30 15:23:00+08:00)
+Sat, 30 Sep 2017 15:23:01 online_everyday_com_profit.py[line:364] ERROR [Errno 22] Invalid argument
+Sat, 30 Sep 2017 15:23:59 base.py[line:131] ERROR Job "Spider.work (trigger: cron[day_of_week='0-6', hour='9,12,15,18', minute='23'], next run at: 2017-09-30 18:23:00 CST)" raised an exception
+Traceback (most recent call last):
+  File "D:\YCC\python\lib\site-packages\apscheduler\executors\base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 366, in work
+    everyday_com_profit = EverydayComProfit()
+  File "C:/Users/chcyang.abcft/PycharmProjects/MainSource/ths_data/finance/online_everyday_com_profit.py", line 349, in work
+    
+IOError: [Errno 22] Invalid argument

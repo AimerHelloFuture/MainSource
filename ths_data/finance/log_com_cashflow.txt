@@ -1,0 +1,1 @@
+Mon, 28 Aug 2017 11:49:01 mysql_cp.py[line:53] ERROR (2003, "Can't connect to MySQL server on '120.26.12.152' (timed out)")

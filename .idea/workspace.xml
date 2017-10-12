@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ad7b241-5ede-43ab-9847-61c7517957d7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MainSource$fch.coverage" NAME="fch Coverage Results" MODIFIED="1507629059949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MainSource$online_com_fin_index_short.coverage" NAME="online_com_fin_index_short Coverage Results" MODIFIED="1507687868241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ths_data/finance" />
+    <SUITE FILE_PATH="coverage/MainSource$com_cash.coverage" NAME="com_cash Coverage Results" MODIFIED="1507794849270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/finance" />
+    <SUITE FILE_PATH="coverage/MainSource$com_profit.coverage" NAME="com_profit Coverage Results" MODIFIED="1507794855828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/finance" />
+    <SUITE FILE_PATH="coverage/MainSource$com_balance.coverage" NAME="com_balance Coverage Results" MODIFIED="1507794841492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/finance" />
+    <SUITE FILE_PATH="coverage/MainSource$test.coverage" NAME="test Coverage Results" MODIFIED="1507707237057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/MainSource$com_cash_sina.coverage" NAME="com_cash_sina Coverage Results" MODIFIED="1507794852486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/finance" />
+    <SUITE FILE_PATH="coverage/MainSource$com_profit_sina.coverage" NAME="com_profit_sina Coverage Results" MODIFIED="1507794858741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/finance" />
+    <SUITE FILE_PATH="coverage/MainSource$com_balance_sina.coverage" NAME="com_balance_sina Coverage Results" MODIFIED="1507794845227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/finance" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MainSource" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="online_com_fin_index_short.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ths_data/finance/online_com_fin_index_short.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="274" column="0" lean-forward="false" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+              <folding>
+                <element signature="e#47#61#0" expanded="true" />
+                <element signature="e#375#1322#0" expanded="false" />
+                <element signature="e#1361#2235#0" expanded="false" />
+                <element signature="e#2292#2522#0" expanded="false" />
+                <element signature="e#2802#4369#0" expanded="false" />
+                <element signature="e#4436#7135#0" expanded="false" />
+                <element signature="e#7173#7807#0" expanded="false" />
+                <element signature="e#7887#8562#0" expanded="false" />
+                <element signature="e#8593#10890#0" expanded="false" />
+                <marker date="1507688488818" expanded="true" signature="1653:1700" ph="select com_u... com_basic_info" />
+                <marker date="1507688488818" expanded="true" signature="3708:3791" ph="insert into com_fin_index_short... " />
+                <marker date="1507688488818" expanded="true" signature="4450:4805" ph="update com_f... " />
+                <marker date="1507688488818" expanded="true" signature="7357:7401" ph="SELECT * fro... ths018" />
+                <marker date="1507688488818" expanded="true" signature="7942:8017" ph="SELECT * fro... com_fin_index_short" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="com_balance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finance/com_balance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding>
+                <element signature="e#723#1214#0" expanded="false" />
+                <element signature="e#1243#29735#0" expanded="false" />
+                <element signature="e#1715#4091#0" expanded="false" />
+                <element signature="e#4108#5774#0" expanded="false" />
+                <element signature="e#5794#7704#0" expanded="false" />
+                <element signature="e#7726#10538#0" expanded="false" />
+                <element signature="e#10558#15143#0" expanded="false" />
+                <element signature="e#15213#16353#0" expanded="false" />
+                <element signature="e#16386#16485#0" expanded="false" />
+                <element signature="e#16520#17803#0" expanded="false" />
+                <element signature="e#17880#19293#0" expanded="false" />
+                <element signature="e#19368#20076#0" expanded="false" />
+                <element signature="e#20114#20527#0" expanded="false" />
+                <element signature="e#20578#21392#0" expanded="false" />
+                <element signature="e#23546#28519#0" expanded="false" />
+                <element signature="e#23674#24891#0" expanded="false" />
+                <marker date="1507601896621" expanded="true" signature="16534:16671" ph="select sec_u... stmt_end_date" />
+                <marker date="1507601896621" expanded="true" signature="16868:16940" ph="select com_u... sec_basic_info" />
+                <marker date="1507601896621" expanded="true" signature="19037:19109" ph="insert into com_balance... " />
+                <marker date="1507601896621" expanded="true" signature="20614:20678" ph="select fin_r... com_basic_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="com_balance_sina.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finance/com_balance_sina.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+              <folding>
+                <element signature="e#1476#4250#0" expanded="false" />
+                <element signature="e#4267#6175#0" expanded="false" />
+                <element signature="e#6195#8287#0" expanded="false" />
+                <element signature="e#8309#10897#0" expanded="false" />
+                <element signature="e#10917#16372#0" expanded="false" />
+                <marker date="1507602088328" expanded="true" signature="17313:17450" ph="select sec_u... stmt_end_date" />
+                <marker date="1507602088328" expanded="true" signature="17647:17719" ph="select com_u... sec_basic_info" />
+                <marker date="1507602088328" expanded="true" signature="19818:19890" ph="insert into com_balance... " />
+                <marker date="1507602088328" expanded="true" signature="20944:21008" ph="select fin_r... com_basic_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="com_cash.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finance/com_cash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="e#717#1208#0" expanded="false" />
+                <element signature="e#1697#3363#0" expanded="false" />
+                <element signature="e#3380#5123#0" expanded="false" />
+                <element signature="e#5143#6834#0" expanded="false" />
+                <element signature="e#6856#8884#0" expanded="false" />
+                <element signature="e#8901#12016#0" expanded="false" />
+                <element signature="e#12086#13227#0" expanded="false" />
+                <element signature="e#13260#13359#0" expanded="false" />
+                <element signature="e#13394#14677#0" expanded="false" />
+                <element signature="e#16230#16938#0" expanded="false" />
+                <element signature="e#16976#17389#0" expanded="false" />
+                <element signature="e#17440#18251#0" expanded="false" />
+                <element signature="e#20395#25368#0" expanded="false" />
+                <marker date="1507602129735" expanded="true" signature="13408:13545" ph="select sec_u... stmt_end_date" />
+                <marker date="1507602129735" expanded="true" signature="13742:13814" ph="select com_u... sec_basic_info" />
+                <marker date="1507602129735" expanded="true" signature="15901:15974" ph="insert into com_cashflow... " />
+                <marker date="1507602129735" expanded="true" signature="17476:17540" ph="select fin_r... com_basic_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="com_cash_sina.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finance/com_cash_sina.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="e#725#1216#0" expanded="false" />
+                <element signature="e#1466#4533#0" expanded="false" />
+                <element signature="e#4550#7667#0" expanded="false" />
+                <element signature="e#7687#10576#0" expanded="false" />
+                <element signature="e#10598#13710#0" expanded="false" />
+                <element signature="e#13727#19793#0" expanded="false" />
+                <element signature="e#19863#20579#0" expanded="false" />
+                <element signature="e#20612#20684#0" expanded="false" />
+                <element signature="e#23557#24265#0" expanded="false" />
+                <element signature="e#24316#25132#0" expanded="false" />
+                <marker date="1507602129892" expanded="true" signature="20733:20870" ph="select sec_u... stmt_end_date" />
+                <marker date="1507602129892" expanded="true" signature="21067:21139" ph="select com_u... sec_basic_info" />
+                <marker date="1507602129892" expanded="true" signature="23228:23301" ph="insert into com_cashflow... " />
+                <marker date="1507602129892" expanded="true" signature="24352:24416" ph="select fin_r... com_basic_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="com_profit.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/finance/com_profit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="e#1726#2547#0" expanded="false" />
+                <element signature="e#2564#3768#0" expanded="false" />
+                <element signature="e#3788#5003#0" expanded="false" />
+                <element signature="e#5025#6606#0" expanded="false" />
+                <element signature="e#6625#9248#0" expanded="false" />
+                <element signature="e#9318#10456#0" expanded="false" />
+                <element signature="e#10489#10588#0" expanded="false" />
+                <element signature="e#13489#14197#0" expanded="false" />
+                <element signature="e#14699#15512#0" expanded="false" />
+                <element signature="e#17672#22645#0" expanded="false" />
+                <marker date="1507602129791" expanded="true" signature="10637:10774" ph="select sec_u... stmt_end_date" />
+                <marker date="1507602129791" expanded="true" signature="10971:11043" ph="select com_u... sec_basic_info" />
+                <marker date="1507602129791" expanded="true" signature="13160:13231" ph="insert into com_profit... " />
+                <marker date="1507602129791" expanded="true" signature="14735:14799" ph="select fin_r... com_basic_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="online_everyday_com_led_position.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ths_data/led/online_everyday_com_led_position.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="565">
+              <caret line="212" column="27" lean-forward="true" selection-start-line="204" selection-start-column="8" selection-end-line="212" selection-end-column="27" />
+              <folding>
+                <element signature="e#350#1145#0" expanded="false" />
+                <element signature="e#1184#2065#0" expanded="false" />
+                <element signature="e#2101#2869#0" expanded="false" />
+                <element signature="e#2905#3433#0" expanded="false" />
+                <element signature="e#4403#6666#0" expanded="false" />
+                <element signature="e#15719#16146#0" expanded="false" />
+                <marker date="1505977752106" expanded="true" signature="576:630" ph="select F001_... ths007" />
+                <marker date="1505977752106" expanded="true" signature="1476:1524" ph="select com_u... com_basic_info" />
+                <marker date="1505977752106" expanded="true" signature="2322:2364" ph="select f001_... ths002" />
+                <marker date="1505977752106" expanded="true" signature="3132:3159" ph="select count... ths029" />
+                <marker date="1505977752106" expanded="true" signature="7234:7359" ph="select F002_... ths037" />
+                <marker date="1505977752106" expanded="true" signature="8330:8405" ph="select peo_u... people_basicinfo" />
+                <marker date="1505977752106" expanded="true" signature="9963:10072" ph="select peo_u... people_basicinfo" />
+                <marker date="1505977752106" expanded="true" signature="11196:11229" ph="select * fro... ths029" />
+                <marker date="1505977752106" expanded="true" signature="13237:13351" ph="select * fro... com_led_position" />
+                <marker date="1505977752106" expanded="true" signature="13747:13870" ph="select max(c... com_led_position" />
+                <marker date="1505977752106" expanded="true" signature="14684:14916" ph="insert into com_led_position... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="com_profit_sina.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/finance/com_profit_sina.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="571" column="41" lean-forward="true" selection-start-line="571" selection-start-column="41" selection-end-line="571" selection-end-column="41" />
+              <folding>
+                <element signature="e#729#1220#0" expanded="false" />
+                <element signature="e#1477#2621#0" expanded="false" />
+                <element signature="e#2638#3943#0" expanded="false" />
+                <element signature="e#3963#5269#0" expanded="false" />
+                <element signature="e#5291#6934#0" expanded="false" />
+                <element signature="e#6953#9787#0" expanded="false" />
+                <element signature="e#9857#10573#0" expanded="false" />
+                <element signature="e#10606#10678#0" expanded="false" />
+                <element signature="e#10713#11996#0" expanded="false" />
+                <element signature="e#12073#13506#0" expanded="false" />
+                <element signature="e#13581#14289#0" expanded="false" />
+                <element signature="e#14340#15158#0" expanded="false" />
+                <element signature="e#15198#18268#0" expanded="false" />
+                <marker date="1507602129839" expanded="true" signature="10727:10864" ph="select sec_u... stmt_end_date" />
+                <marker date="1507602129839" expanded="true" signature="11061:11133" ph="select com_u... sec_basic_info" />
+                <marker date="1507602129839" expanded="true" signature="13252:13323" ph="insert into com_profit... " />
+                <marker date="1507602129839" expanded="true" signature="14376:14440" ph="select fin_r... com_basic_info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="online_everyday_people_basicinfo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ths_data/led/online_everyday_people_basicinfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2318">
+              <caret line="196" column="40" lean-forward="true" selection-start-line="196" selection-start-column="40" selection-end-line="196" selection-end-column="40" />
+              <folding>
+                <element signature="e#47#61#0" expanded="true" />
+                <element signature="e#347#1142#0" expanded="false" />
+                <element signature="e#1178#1665#0" expanded="false" />
+                <element signature="e#1710#1987#0" expanded="false" />
+                <element signature="e#2463#3097#0" expanded="false" />
+                <element signature="e#6574#7110#0" expanded="false" />
+                <element signature="e#7692#11720#0" expanded="false" />
+                <marker date="1507534398313" expanded="true" signature="573:627" ph="select F001_... ths007" />
+                <marker date="1507534398313" expanded="true" signature="1403:1430" ph="select count... ths037" />
+                <marker date="1507534398313" expanded="true" signature="2647:2691" ph="SELECT * fro... ths037" />
+                <marker date="1507534398313" expanded="true" signature="3145:3178" ph="select * fro... ths037" />
+                <marker date="1507534398313" expanded="true" signature="3656:3862" ph="insert into people_basicinfo... " />
+                <marker date="1507534398313" expanded="true" signature="3887:3985" ph="select * fro... people_basicinfo" />
+                <marker date="1507534398313" expanded="true" signature="4010:4074" ph="select * fro... people_basicinfo" />
+                <marker date="1507534398313" expanded="true" signature="7706:7912" ph="insert into people_basicinfo... " />
+                <marker date="1507534398313" expanded="true" signature="7937:8054" ph="select * fro... people_basicinfo" />
+                <marker date="1507534398313" expanded="true" signature="8079:8129" ph="select * fro... people_basicinfo" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rec_loan_account</find>
+      <find>rec_account</find>
+      <find>long_rec_account</find>
+      <find>translation_reserve</find>
+      <find>buy_for_cash</find>
+      <find>提供劳务支付的现金</find>
+      <find>质押借款</find>
+      <find>603389</find>
+      <find>zygcfx</find>
+      <find>tag</find>
+      <find>20836</find>
+      <find>ths_013_0[i]</find>
+      <find>013</find>
+      <find>014</find>
+      <find>com_balance_copy</find>
+      <find>com_profit_copy</find>
+      <find>com_cashflow_copy</find>
+      <find>center_region_list</find>
+      <find>people_basicinfo</find>
+      <find>com_led_position</find>
+      <find>get_country</find>
+      <find>ths_007_num</find>
+      <find>repeat catch</find>
+      <find>ths_037[0]</find>
+      <find>order by</find>
+      <find>profit</find>
+      <find>balance</find>
+      <find>fp</find>
+      <find>income_for_holer_other_com_income</find>
+      <find>income_for_holder_other_com_income</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ths_data/finance/log_everyday_com_balance.txt" />
+        <option value="$PROJECT_DIR$/ths_data/finance/online_com_balance.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/online_com_profit.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/online_com_cashflow.py" />
+        <option value="$PROJECT_DIR$/test/test1.py" />
+        <option value="$PROJECT_DIR$/test/people_basic_new_start.txt" />
+        <option value="$PROJECT_DIR$/ths_data/led/com_led_position.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/log_com_led_position.txt" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_com_led_position.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_com_led_rewardstat.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/led_stockalter_lose_peounicode.txt" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_com_led_stockalter.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/people_basic_new_start.txt" />
+        <option value="$PROJECT_DIR$/ths_data/led/led_position_new_start.txt" />
+        <option value="$PROJECT_DIR$/ths_data/led/led_stockalter_new_start.txt" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_everyday_com_led_stockalter.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/_01000584.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/_01000584_profit.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/_01000584_cashflow.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/led_rewardstat_new_start.txt" />
+        <option value="$PROJECT_DIR$/ths_data/finance/excel1.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/excel2.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/excel.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/lose_balance_riqi.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/lose_cashflow_riqi.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/lose_profit_riqi.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/lose_balance.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/lose_cashflow.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/lose_profit.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/led_lose_peounicode_new.txt" />
+        <option value="$PROJECT_DIR$/ths_data/led/lose_com_led_position.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_everyday_com_led_position.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_everyday_com_led_rewardstat.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/online_everyday_com_cashflow.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/online_everyday_com_profit.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_people_basicinfo.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_people_basicinfo_yilou.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/online_everyday_people_basicinfo.py" />
+        <option value="$PROJECT_DIR$/ths_data/led/mysql_cp.py" />
+        <option value="$PROJECT_DIR$/finance/com_balance.py" />
+        <option value="$PROJECT_DIR$/finance/com_balance_sina.py" />
+        <option value="$PROJECT_DIR$/finance/com_cash.py" />
+        <option value="$PROJECT_DIR$/finance/com_cash_sina.py" />
+        <option value="$PROJECT_DIR$/finance/com_profit.py" />
+        <option value="$PROJECT_DIR$/finance/com_profit_sina.py" />
+        <option value="$PROJECT_DIR$/fch.py" />
+        <option value="$PROJECT_DIR$/fchc.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/online_everyday_com_balance.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/mysql_cp.py" />
+        <option value="$PROJECT_DIR$/ths_data/finance/online_com_fin_index_short.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SqlDialectInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MainSource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MainSource" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataAnalyseService" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chcyang.abcft\PycharmProjects\MainSource\ths_data\led" />
+      <recent name="C:\Users\chcyang.abcft\PycharmProjects\MainSource\ths_data\finance" />
+      <recent name="C:\Users\chcyang.abcft\PycharmProjects\MainSource\ths_data" />
+      <recent name="C:\Users\chcyang.abcft\PycharmProjects\MainSource\led" />
+      <recent name="C:\Users\chcyang.abcft\PycharmProjects\MainSource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chcyang.abcft\PycharmProjects\MainSource\ths_data\led" />
+      <recent name="C:\Users\chcyang.abcft\PycharmProjects\MainSource\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.com_profit_sina">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration name="com_balance_sina" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/finance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finance/com_balance_sina.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="com_cash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/finance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finance/com_cash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="com_cash_sina" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/finance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finance/com_cash_sina.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="com_profit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/finance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finance/com_profit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="com_profit_sina" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/finance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MainSource" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finance/com_profit_sina.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.com_balance_sina" />
+      <item index="1" class="java.lang.String" itemvalue="Python.com_cash" />
+      <item index="2" class="java.lang.String" itemvalue="Python.com_cash_sina" />
+      <item index="3" class="java.lang.String" itemvalue="Python.com_profit" />
+      <item index="4" class="java.lang.String" itemvalue="Python.com_profit_sina" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.com_profit_sina" />
+        <item index="1" class="java.lang.String" itemvalue="Python.com_profit" />
+        <item index="2" class="java.lang.String" itemvalue="Python.com_cash_sina" />
+        <item index="3" class="java.lang.String" itemvalue="Python.com_cash" />
+        <item index="4" class="java.lang.String" itemvalue="Python.com_balance_sina" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ad7b241-5ede-43ab-9847-61c7517957d7" name="Default" comment="" />
+      <created>1501136926319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501136926319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="1" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23347548" sideWeight="0.48176584" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33713692" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40975103" sideWeight="0.50479746" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2705515" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28095734" sideWeight="0.4968017" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19829424" sideWeight="0.5182342" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35171697" sideWeight="0.49520257" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/people_basic_info.py</url>
+          <line>213</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com_led_rewardstat.py</url>
+          <line>292</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/manager.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/balance_sina.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/balance_sina.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/jige_ge.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/ji_xiong.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/jige.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_cash.py</url>
+          <line>452</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/led/manager.py</url>
+          <line>425</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_profit.py</url>
+          <line>704</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_cash_sina.py</url>
+          <line>632</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_profit_sina.py</url>
+          <line>397</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/led/people_basicinfo.py</url>
+          <line>510</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/led/people_basicinfo.py</url>
+          <line>486</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_balance.py</url>
+          <line>859</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_equity_change.py</url>
+          <line>359</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_sale_structure.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/com_balance.py</url>
+          <line>198</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/online_com_cashflow.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/led/online_com_led_position.py</url>
+          <line>332</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_balance.py</url>
+          <line>330</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/finance/com_profit_sina.py</url>
+          <line>575</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/led/online_everyday_com_led_position.py</url>
+          <line>325</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/lose_balance.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/excel.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/excel.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/lose_profit_riqi.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/led/lose_com_led_position.py</url>
+          <line>366</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/led/lose_com_led_position.py</url>
+          <line>326</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_profit.py</url>
+          <line>378</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_profit.py</url>
+          <line>341</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_profit.py</url>
+          <line>347</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/led/online_people_basicinfo_yilou.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fch.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fch.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ths_data/finance/online_com_fin_index_short.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/test.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="290" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ths_data/led/led_rewardstat_new_start.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_com_led_stockalter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="186" column="19" lean-forward="false" selection-start-line="186" selection-start-column="19" selection-end-line="186" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/_01000584.py" />
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_com_cashflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#186#481#0" expanded="false" />
+            <element signature="e#536#1271#0" expanded="false" />
+            <element signature="e#1301#6751#0" expanded="false" />
+            <element signature="e#6774#7449#0" expanded="false" />
+            <element signature="e#7477#8282#0" expanded="false" />
+            <element signature="e#8307#8995#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/excel1.py" />
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/excel2.py" />
+    <entry file="file://$PROJECT_DIR$/ths_data/led/mailhelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_balance_rtime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5925">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/lose_cashflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/lose_cashflow_riqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="103" column="11" lean-forward="false" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/lose_profit_riqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#47#61#0" expanded="false" />
+            <element signature="e#871#1606#0" expanded="false" />
+            <element signature="e#1651#6106#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/lose_balance_riqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="618" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="618" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/lose_balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+            <element signature="e#151#826#0" expanded="false" />
+            <element signature="e#881#1616#0" expanded="false" />
+            <element signature="e#1660#6778#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/lose_profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="126" column="29" lean-forward="false" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/led_lose_peounicode_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/lose_com_led_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="5" lean-forward="false" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#47#61#0" expanded="false" />
+            <element signature="e#1588#2469#0" expanded="false" />
+            <element signature="e#2505#3273#0" expanded="false" />
+            <element signature="e#3309#3837#0" expanded="false" />
+            <element signature="e#6845#7192#0" expanded="false" />
+            <element signature="e#10802#11068#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_everyday_com_led_stockalter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5795">
+          <caret line="305" column="0" lean-forward="false" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_everyday_com_led_rewardstat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4598">
+          <caret line="247" column="51" lean-forward="false" selection-start-line="247" selection-start-column="51" selection-end-line="247" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_com_profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="96" column="30" lean-forward="false" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/led/people_basic_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2603">
+          <caret line="149" column="83" lean-forward="false" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_profit2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_balance2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_cashflow2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_com_led_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="295" column="0" lean-forward="true" selection-start-line="295" selection-start-column="0" selection-end-line="295" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+            <element signature="e#297#301#0" expanded="false" />
+            <element signature="e#338#1133#0" expanded="false" />
+            <element signature="e#1172#2053#0" expanded="false" />
+            <element signature="e#2089#2857#0" expanded="false" />
+            <element signature="e#2893#3421#0" expanded="false" />
+            <element signature="e#4061#6324#0" expanded="false" />
+            <element signature="e#6429#6776#0" expanded="false" />
+            <element signature="e#6831#10357#0" expanded="false" />
+            <element signature="e#10404#10670#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_cashflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="74" column="11" lean-forward="true" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#61#0" expanded="false" />
+            <element signature="e#372#1191#0" expanded="false" />
+            <element signature="e#1225#1968#0" expanded="false" />
+            <element signature="e#2917#3685#0" expanded="false" />
+            <element signature="e#4356#9261#0" expanded="false" />
+            <element signature="e#9327#15973#0" expanded="false" />
+            <element signature="e#16011#16645#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/com_fin_index_short.py" />
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/com_led_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3686">
+          <caret line="286" column="60" lean-forward="false" selection-start-line="286" selection-start-column="30" selection-end-line="286" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_people_basicinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/mysql_cp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_com_balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2508">
+          <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="15" selection-end-line="134" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_people_basicinfo_yilou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2527">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/balance_sina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1256#4030#0" expanded="false" />
+            <element signature="e#4047#5955#0" expanded="false" />
+            <element signature="e#5975#8067#0" expanded="false" />
+            <element signature="e#8089#10677#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="303" column="0" lean-forward="false" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fchc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1059">
+          <caret line="68" column="28" lean-forward="false" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <marker date="1507628701938" expanded="true" signature="739:981" ph="insert into com_staff_main... " />
+            <marker date="1507628701938" expanded="true" signature="1236:1297" ph="select com_u... com_basic_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_everyday_com_balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+            <element signature="e#385#1204#0" expanded="false" />
+            <element signature="e#1252#1995#0" expanded="false" />
+            <element signature="e#2048#2922#0" expanded="false" />
+            <element signature="e#4412#9848#0" expanded="false" />
+            <element signature="e#9915#15159#0" expanded="false" />
+            <element signature="e#15925#16983#0" expanded="false" />
+            <element signature="e#17014#17606#0" expanded="false" />
+            <marker date="1507623979849" expanded="true" signature="1425:1490" ph="select DISTI... ths013" />
+            <marker date="1507623979849" expanded="true" signature="2340:2387" ph="select com_u... com_basic_info" />
+            <marker date="1507623979849" expanded="true" signature="3193:3235" ph="select f001_... ths002" />
+            <marker date="1507623979849" expanded="true" signature="9080:9155" ph="insert into com_balance... " />
+            <marker date="1507623979849" expanded="true" signature="9929:13191" ph="update com_b... " />
+            <marker date="1507623979849" expanded="true" signature="15395:15439" ph="SELECT * fro... ths013" />
+            <marker date="1507623979849" expanded="true" signature="16299:16410" ph="SELECT * fro... com_balance" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/mysql_cp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" column="47" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/finance/online_com_fin_index_short.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="274" column="0" lean-forward="false" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+            <element signature="e#375#1322#0" expanded="false" />
+            <element signature="e#1361#2235#0" expanded="false" />
+            <element signature="e#2292#2522#0" expanded="false" />
+            <element signature="e#2802#4369#0" expanded="false" />
+            <element signature="e#4436#7135#0" expanded="false" />
+            <element signature="e#7173#7807#0" expanded="false" />
+            <element signature="e#7887#8562#0" expanded="false" />
+            <element signature="e#8593#10890#0" expanded="false" />
+            <marker date="1507688488818" expanded="true" signature="1653:1700" ph="select com_u... com_basic_info" />
+            <marker date="1507688488818" expanded="true" signature="3708:3791" ph="insert into com_fin_index_short... " />
+            <marker date="1507688488818" expanded="true" signature="4450:4805" ph="update com_f... " />
+            <marker date="1507688488818" expanded="true" signature="7357:7401" ph="SELECT * fro... ths018" />
+            <marker date="1507688488818" expanded="true" signature="7942:8017" ph="SELECT * fro... com_fin_index_short" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_everyday_people_basicinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="196" column="40" lean-forward="true" selection-start-line="196" selection-start-column="40" selection-end-line="196" selection-end-column="40" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+            <element signature="e#347#1142#0" expanded="false" />
+            <element signature="e#1178#1665#0" expanded="false" />
+            <element signature="e#1710#1987#0" expanded="false" />
+            <element signature="e#2463#3097#0" expanded="false" />
+            <element signature="e#6574#7110#0" expanded="false" />
+            <element signature="e#7692#11720#0" expanded="false" />
+            <marker date="1507534398313" expanded="true" signature="573:627" ph="select F001_... ths007" />
+            <marker date="1507534398313" expanded="true" signature="1403:1430" ph="select count... ths037" />
+            <marker date="1507534398313" expanded="true" signature="2647:2691" ph="SELECT * fro... ths037" />
+            <marker date="1507534398313" expanded="true" signature="3145:3178" ph="select * fro... ths037" />
+            <marker date="1507534398313" expanded="true" signature="3656:3862" ph="insert into people_basicinfo... " />
+            <marker date="1507534398313" expanded="true" signature="3887:3985" ph="select * fro... people_basicinfo" />
+            <marker date="1507534398313" expanded="true" signature="4010:4074" ph="select * fro... people_basicinfo" />
+            <marker date="1507534398313" expanded="true" signature="7706:7912" ph="insert into people_basicinfo... " />
+            <marker date="1507534398313" expanded="true" signature="7937:8054" ph="select * fro... people_basicinfo" />
+            <marker date="1507534398313" expanded="true" signature="8079:8129" ph="select * fro... people_basicinfo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ths_data/led/online_everyday_com_led_position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="212" column="27" lean-forward="true" selection-start-line="204" selection-start-column="8" selection-end-line="212" selection-end-column="27" />
+          <folding>
+            <element signature="e#350#1145#0" expanded="false" />
+            <element signature="e#1184#2065#0" expanded="false" />
+            <element signature="e#2101#2869#0" expanded="false" />
+            <element signature="e#2905#3433#0" expanded="false" />
+            <element signature="e#4403#6666#0" expanded="false" />
+            <element signature="e#15719#16146#0" expanded="false" />
+            <marker date="1505977752106" expanded="true" signature="576:630" ph="select F001_... ths007" />
+            <marker date="1505977752106" expanded="true" signature="1476:1524" ph="select com_u... com_basic_info" />
+            <marker date="1505977752106" expanded="true" signature="2322:2364" ph="select f001_... ths002" />
+            <marker date="1505977752106" expanded="true" signature="3132:3159" ph="select count... ths029" />
+            <marker date="1505977752106" expanded="true" signature="7234:7359" ph="select F002_... ths037" />
+            <marker date="1505977752106" expanded="true" signature="8330:8405" ph="select peo_u... people_basicinfo" />
+            <marker date="1505977752106" expanded="true" signature="9963:10072" ph="select peo_u... people_basicinfo" />
+            <marker date="1505977752106" expanded="true" signature="11196:11229" ph="select * fro... ths029" />
+            <marker date="1505977752106" expanded="true" signature="13237:13351" ph="select * fro... com_led_position" />
+            <marker date="1505977752106" expanded="true" signature="13747:13870" ph="select max(c... com_led_position" />
+            <marker date="1505977752106" expanded="true" signature="14684:14916" ph="insert into com_led_position... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/com_balance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#723#1214#0" expanded="false" />
+            <element signature="e#1243#29735#0" expanded="false" />
+            <element signature="e#1715#4091#0" expanded="false" />
+            <element signature="e#4108#5774#0" expanded="false" />
+            <element signature="e#5794#7704#0" expanded="false" />
+            <element signature="e#7726#10538#0" expanded="false" />
+            <element signature="e#10558#15143#0" expanded="false" />
+            <element signature="e#15213#16353#0" expanded="false" />
+            <element signature="e#16386#16485#0" expanded="false" />
+            <element signature="e#16520#17803#0" expanded="false" />
+            <element signature="e#17880#19293#0" expanded="false" />
+            <element signature="e#19368#20076#0" expanded="false" />
+            <element signature="e#20114#20527#0" expanded="false" />
+            <element signature="e#20578#21392#0" expanded="false" />
+            <element signature="e#23546#28519#0" expanded="false" />
+            <element signature="e#23674#24891#0" expanded="false" />
+            <marker date="1507601896621" expanded="true" signature="16534:16671" ph="select sec_u... stmt_end_date" />
+            <marker date="1507601896621" expanded="true" signature="16868:16940" ph="select com_u... sec_basic_info" />
+            <marker date="1507601896621" expanded="true" signature="19037:19109" ph="insert into com_balance... " />
+            <marker date="1507601896621" expanded="true" signature="20614:20678" ph="select fin_r... com_basic_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/com_balance_sina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding>
+            <element signature="e#1476#4250#0" expanded="false" />
+            <element signature="e#4267#6175#0" expanded="false" />
+            <element signature="e#6195#8287#0" expanded="false" />
+            <element signature="e#8309#10897#0" expanded="false" />
+            <element signature="e#10917#16372#0" expanded="false" />
+            <marker date="1507602088328" expanded="true" signature="17313:17450" ph="select sec_u... stmt_end_date" />
+            <marker date="1507602088328" expanded="true" signature="17647:17719" ph="select com_u... sec_basic_info" />
+            <marker date="1507602088328" expanded="true" signature="19818:19890" ph="insert into com_balance... " />
+            <marker date="1507602088328" expanded="true" signature="20944:21008" ph="select fin_r... com_basic_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/com_cash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#717#1208#0" expanded="false" />
+            <element signature="e#1697#3363#0" expanded="false" />
+            <element signature="e#3380#5123#0" expanded="false" />
+            <element signature="e#5143#6834#0" expanded="false" />
+            <element signature="e#6856#8884#0" expanded="false" />
+            <element signature="e#8901#12016#0" expanded="false" />
+            <element signature="e#12086#13227#0" expanded="false" />
+            <element signature="e#13260#13359#0" expanded="false" />
+            <element signature="e#13394#14677#0" expanded="false" />
+            <element signature="e#16230#16938#0" expanded="false" />
+            <element signature="e#16976#17389#0" expanded="false" />
+            <element signature="e#17440#18251#0" expanded="false" />
+            <element signature="e#20395#25368#0" expanded="false" />
+            <marker date="1507602129735" expanded="true" signature="13408:13545" ph="select sec_u... stmt_end_date" />
+            <marker date="1507602129735" expanded="true" signature="13742:13814" ph="select com_u... sec_basic_info" />
+            <marker date="1507602129735" expanded="true" signature="15901:15974" ph="insert into com_cashflow... " />
+            <marker date="1507602129735" expanded="true" signature="17476:17540" ph="select fin_r... com_basic_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/com_cash_sina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="33" lean-forward="false" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#725#1216#0" expanded="false" />
+            <element signature="e#1466#4533#0" expanded="false" />
+            <element signature="e#4550#7667#0" expanded="false" />
+            <element signature="e#7687#10576#0" expanded="false" />
+            <element signature="e#10598#13710#0" expanded="false" />
+            <element signature="e#13727#19793#0" expanded="false" />
+            <element signature="e#19863#20579#0" expanded="false" />
+            <element signature="e#20612#20684#0" expanded="false" />
+            <element signature="e#23557#24265#0" expanded="false" />
+            <element signature="e#24316#25132#0" expanded="false" />
+            <marker date="1507602129892" expanded="true" signature="20733:20870" ph="select sec_u... stmt_end_date" />
+            <marker date="1507602129892" expanded="true" signature="21067:21139" ph="select com_u... sec_basic_info" />
+            <marker date="1507602129892" expanded="true" signature="23228:23301" ph="insert into com_cashflow... " />
+            <marker date="1507602129892" expanded="true" signature="24352:24416" ph="select fin_r... com_basic_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/com_profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#1726#2547#0" expanded="false" />
+            <element signature="e#2564#3768#0" expanded="false" />
+            <element signature="e#3788#5003#0" expanded="false" />
+            <element signature="e#5025#6606#0" expanded="false" />
+            <element signature="e#6625#9248#0" expanded="false" />
+            <element signature="e#9318#10456#0" expanded="false" />
+            <element signature="e#10489#10588#0" expanded="false" />
+            <element signature="e#13489#14197#0" expanded="false" />
+            <element signature="e#14699#15512#0" expanded="false" />
+            <element signature="e#17672#22645#0" expanded="false" />
+            <marker date="1507602129791" expanded="true" signature="10637:10774" ph="select sec_u... stmt_end_date" />
+            <marker date="1507602129791" expanded="true" signature="10971:11043" ph="select com_u... sec_basic_info" />
+            <marker date="1507602129791" expanded="true" signature="13160:13231" ph="insert into com_profit... " />
+            <marker date="1507602129791" expanded="true" signature="14735:14799" ph="select fin_r... com_basic_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finance/com_profit_sina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="571" column="41" lean-forward="true" selection-start-line="571" selection-start-column="41" selection-end-line="571" selection-end-column="41" />
+          <folding>
+            <element signature="e#729#1220#0" expanded="false" />
+            <element signature="e#1477#2621#0" expanded="false" />
+            <element signature="e#2638#3943#0" expanded="false" />
+            <element signature="e#3963#5269#0" expanded="false" />
+            <element signature="e#5291#6934#0" expanded="false" />
+            <element signature="e#6953#9787#0" expanded="false" />
+            <element signature="e#9857#10573#0" expanded="false" />
+            <element signature="e#10606#10678#0" expanded="false" />
+            <element signature="e#10713#11996#0" expanded="false" />
+            <element signature="e#12073#13506#0" expanded="false" />
+            <element signature="e#13581#14289#0" expanded="false" />
+            <element signature="e#14340#15158#0" expanded="false" />
+            <element signature="e#15198#18268#0" expanded="false" />
+            <marker date="1507602129839" expanded="true" signature="10727:10864" ph="select sec_u... stmt_end_date" />
+            <marker date="1507602129839" expanded="true" signature="11061:11133" ph="select com_u... sec_basic_info" />
+            <marker date="1507602129839" expanded="true" signature="13252:13323" ph="insert into com_profit... " />
+            <marker date="1507602129839" expanded="true" signature="14376:14440" ph="select fin_r... com_basic_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

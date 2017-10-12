@@ -1,0 +1,8 @@
+Mon, 04 Sep 2017 14:34:31 base.py[line:431] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 04 Sep 2017 14:34:31 base.py[line:431] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+Mon, 04 Sep 2017 14:34:31 base.py[line:865] INFO Added job "Spider.work" to job store "default"
+Mon, 04 Sep 2017 14:34:31 base.py[line:865] INFO Added job "Spider.work" to job store "default"
+Mon, 04 Sep 2017 14:34:31 base.py[line:158] INFO Scheduler started
+Mon, 04 Sep 2017 14:34:31 base.py[line:123] INFO Running job "Spider.work (trigger: date[2017-09-04 14:34:30 CST], next run at: 2017-09-04 14:34:30 CST)" (scheduled at 2017-09-04 14:34:30.998000+08:00)
+Mon, 04 Sep 2017 14:34:31 base.py[line:619] INFO Removed job 811d709500144a75a5bcd9ccc23611f5
+Mon, 04 Sep 2017 14:34:31 online_everyday_people_basicinfo.py[line:342] ERROR Connection unexpectedly closed
